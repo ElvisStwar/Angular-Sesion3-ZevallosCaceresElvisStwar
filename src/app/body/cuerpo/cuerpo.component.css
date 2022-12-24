@@ -1,0 +1,18 @@
+.card{
+    box-shadow: 0 0 10px rgb(231, 231, 231);
+    border: 1px solid rgb(221, 221, 221);
+}
+
+h5{
+    color: rgb(124, 124, 124);
+}
+
+.card-header{
+    font-size: 20px;
+}
+
+span{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
